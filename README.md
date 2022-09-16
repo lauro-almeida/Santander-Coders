@@ -1,6 +1,6 @@
 # Santander-Coders
 
-### First phase of Santander Coders program, fulled by Let's code academy. wIn this part, we will be introduced to the fundamentals of python.
+### First phase of Santander Coders program, powered by  Ada Let's code academy. wIn this part, we will be introduced to the fundamentals of python.
 
 ## Module 1: 
 1. Data types
